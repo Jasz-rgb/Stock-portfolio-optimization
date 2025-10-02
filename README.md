@@ -23,10 +23,10 @@ It dynamically selects stocks from a universe of blue-chip & tech stocks, alloca
 ---
 
 ## 📂 Project Structure
-  Stock-portfolio-optimization/
-  │── main.py # Main script (data fetching, stock selection, optimization, backtesting)
-  │── requirements.txt # Python dependencies
-  │── README.md # Project documentation
+>   Stock-portfolio-optimization/
+>   │── main.py # Main script (data fetching, stock selection, optimization, backtesting)
+>   │── requirements.txt # Python dependencies
+>   │── README.md # Project documentation
 
 ---
 
@@ -71,7 +71,9 @@ Performance Metrics (sample run):
 > Total Return: 7.11%  
 
 📈 The script also generates a stacked area chart of portfolio weights over time:  
-<img width="820" height="454" alt="Portfolio Weights Over Time" src="https://github.com/user-attachments/assets/5b3c3475-9dd7-4172-adac-0575574dba75" />
+<p align="center">
+  <img width="820" height="454" alt="Portfolio Weights Over Time" src="https://github.com/user-attachments/assets/5b3c3475-9dd7-4172-adac-0575574dba75" />
+</p>
 
 ---
 
