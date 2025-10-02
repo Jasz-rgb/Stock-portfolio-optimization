@@ -24,9 +24,10 @@ It dynamically selects stocks from a universe of blue-chip & tech stocks, alloca
 
 ## 📂 Project Structure
 - Stock-portfolio-optimization/
-  - main.py            # Main script (data fetching, stock selection, optimization, backtesting)
-  - requirements.txt   # Python dependencies
-  - README.md          # Project documentation
+  - main.py                    # Main script (data fetching, stock selection, optimization, backtesting)
+  - Risp_parity_report.docx    # Report file
+  - requirements.txt           # Python dependencies
+  - README.md                  # Project documentation
 
 ---
 
